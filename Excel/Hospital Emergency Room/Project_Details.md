@@ -22,7 +22,7 @@ This project analyzes Hospital Emergency Room data using Excel.
 
 ## Dashboard Preview
 
-![Dashboard]([Screenshots/dashboard.png](https://github.com/Adityadevkate17/Data-Analysis-projects/blob/main/Excel/Hospital%20Emergency%20Room/Final%20Dashboard%20of%20Hospital%20Emergency%20Room.jpg))
+📊 [Hospital Emergency Room Dashboard](https://github.com/Adityadevkate17/Data-Analysis-projects/blob/main/Excel/Hospital%20Emergency%20Room/Hospital%20%20Emergency%20Room%20Dashboard.xlsx)
 
 ## Key Learnings
 - Data Cleaning
