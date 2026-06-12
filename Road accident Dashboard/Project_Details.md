@@ -45,4 +45,6 @@ This project analyzes road accident data using Microsoft Excel and provides inte
 
 ## Dashboard img
 [Road Accident Analysis Dashboard](https://raw.githubusercontent.com/Adityadevkate17/Data-Analysis-projects/main/Road%20accident%20Dashboard/Road%20Accident%20Dashboard.jpg.png)
+<img width="1047" height="563" alt="Road Accident Dashboard jpg" src="https://github.com/user-attachments/assets/13ef5253-eb2d-4a73-b77b-7bb13a1905e7" />
+
 
